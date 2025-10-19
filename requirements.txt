@@ -1,0 +1,11 @@
+gradio
+openai-whisper
+gtts
+elevenlabs
+groq
+ffmpeg-python
+pyaudio
+pydub
+pillow
+speechrecognition
+python-dotenv
